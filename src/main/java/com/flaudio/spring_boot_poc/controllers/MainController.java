@@ -1,4 +1,4 @@
-package com.flaudio.spring_boot_poc;
+package com.flaudio.spring_boot_poc.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
